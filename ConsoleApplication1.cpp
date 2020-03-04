@@ -9,6 +9,7 @@ int main()
     std::cout << "TEST #2";
     std::cout << "TEST #3";
     std::cout << "TEST #4";
+    std::cout << "TEST #5";
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
