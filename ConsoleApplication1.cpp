@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "TEST #1";
     std::cout << "TEST #2";
-alksjdlkajaljlkjlkajlkssajld
+    std::cout << "alksjdlkajaljlkjlkajlkssajld";
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
