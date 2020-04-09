@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cout << "Test #0";
     std::cout << "TEST #1";
     std::cout << "TEST #2";
     std::cout << "Test #3";
