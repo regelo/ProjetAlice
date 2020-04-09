@@ -6,8 +6,8 @@
 int main()
 {
     std::cout << "Test #0" << std::endl;
-    std::cout << "TEST #1" << std::endl;
-    std::cout << "TEST #2" << std::endl;
+    std::cout << "Test #1" << std::endl;
+    std::cout << "Test #2" << std::endl;
     std::cout << "Test #3" << std::endl;
     std::cout << "Test #4" << std::endl;
 }
